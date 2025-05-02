@@ -3,3 +3,4 @@ uvicorn
 easyocr
 openpyxl
 python-multipart
+pandas
